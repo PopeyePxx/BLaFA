@@ -1,5 +1,4 @@
-# BLADA
-[**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**](https://arxiv.org/pdf/2604.08410)
+# BLAFA
 ## Installation
 
 1. **Create the environment**
